@@ -16,11 +16,12 @@ You don't need to run. If you create an object which adheres to the type constra
 
 #### Sample Answer from the Code:
 
-Code:
+- Code:
 
 ![](/code-snapshot.png)
 
-Chess board:
+- Chess board:
+  
 ![](/chessboard.png)
 
 This project was created using `bun init` in bun v1.0.3. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
