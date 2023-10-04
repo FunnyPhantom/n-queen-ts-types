@@ -17,7 +17,9 @@ You don't need to run. If you create an object which adheres to the type constra
 #### Sample Answer from the Code:
 
 Code:
+
 ![](/code-snapshot.png)
+
 Chess board:
 ![](/chessboard.png)
 
